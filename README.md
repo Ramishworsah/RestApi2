@@ -30,5 +30,7 @@ A REST API to manage a collection of books, providing functionality for creating
 ```bash
 git add .
 git commit -m "Initial commit with API and README"
-git push origin main
-
+gh repo new
+select the local repository
+click yes
+after that automatic add your git hub
